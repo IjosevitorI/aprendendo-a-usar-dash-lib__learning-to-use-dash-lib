@@ -7,9 +7,9 @@ As ferramentas escolhidas para este projeto priorizam a facilidade de criar uma 
 
 ## Tecnologias Adotadas e Por Quê
 
--Pandas: É a ferramenta que ja eu ja havia utilizado antes, e novamente utilizei para leitura, manipulação e tratamento de dados em formato de tabela. o Pandas aqui tambem foi usado para carregar os dados de texto e realizar a interpolação linear de forma automática, preenchendo as lacunas de dados vazios.
--Plotly Express: Biblioteca focada em visualização de dados. Foi escolhida porque gera gráficos interativos por padrão (permite dar zoom e passar o mouse para ler os valores exatos) escrevendo muito poucas linhas de código.
--Dash: Um framework que transforma scripts de análise de dados em aplicações web. Ele foi utilizado porque permite criar a interface visual (menus suspensos, botões e layout) diretamente em Python, sem a necessidade de construir um sistema separado em HTML, CSS ou JavaScript.
+- Pandas: É a ferramenta que ja eu ja havia utilizado antes, e novamente utilizei para leitura, manipulação e tratamento de dados em formato de tabela. o Pandas aqui tambem foi usado para carregar os dados de texto e realizar a interpolação linear de forma automática, preenchendo as lacunas de dados vazios.
+- Plotly Express: Biblioteca focada em visualização de dados. Foi escolhida porque gera gráficos interativos por padrão (permite dar zoom e passar o mouse para ler os valores exatos) escrevendo muito poucas linhas de código.
+- Dash: Um framework que transforma scripts de análise de dados em aplicações web. Ele foi utilizado porque permite criar a interface visual (menus suspensos, botões e layout) diretamente em Python, sem a necessidade de construir um sistema separado em HTML, CSS ou JavaScript.
 
 
 # learning-to-use-dash-lib
@@ -23,9 +23,9 @@ The tools chosen for this project prioritize the ease of creating a functional i
 
 ## Technologies Adopted and Why
 
--Pandas: This is a tool I had used before, and I used it again for reading, manipulating, and processing data in table format. Pandas was also used here to load text data and perform linear interpolation automatically, filling in empty data gaps.
--Plotly Express: A library focused on data visualization. It was chosen because it generates interactive graphs by default (allowing zooming and hovering to read exact values) while requiring very few lines of code.
--Dash: A framework that transforms data analysis scripts into web applications. It was used because it allows creating the visual interface (dropdown menus, buttons, and layout) directly in Python, without the need to build a separate system in HTML, CSS, or JavaScript.
+- Pandas: This is a tool I had used before, and I used it again for reading, manipulating, and processing data in table format. Pandas was also used here to load text data and perform linear interpolation automatically, filling in empty data gaps.
+- Plotly Express: A library focused on data visualization. It was chosen because it generates interactive graphs by default (allowing zooming and hovering to read exact values) while requiring very few lines of code.
+- Dash: A framework that transforms data analysis scripts into web applications. It was used because it allows creating the visual interface (dropdown menus, buttons, and layout) directly in Python, without the need to build a separate system in HTML, CSS, or JavaScript.
 
 
 ## Instruções de execução
