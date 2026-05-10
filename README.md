@@ -64,8 +64,8 @@ Open your preferred internet browser and go to the address.
 ## Usando a Interface
 
 O dashboard possui duas funções principais:
--Visualização Dinâmica: No menu superior, escolha entre Temperatura, Nível do Rio ou NDVI. O gráfico será atualizado automaticamente, mostrando a evolução da métrica no tempo junto com uma linha tracejada indicando o valor médio.
--Exportação de Dados: Na parte inferior, você pode escolher um critério de ordenação (por exemplo, "Temperatura Crescente") e clicar no botão "Gerar CSV". Isso fará com que os dados organizados sejam impressos no seu terminal e um novo arquivo .csv seja salvo automaticamente na mesma pasta do projeto.
+- Visualização Dinâmica: No menu superior, escolha entre Temperatura, Nível do Rio ou NDVI. O gráfico será atualizado automaticamente, mostrando a evolução da métrica no tempo junto com uma linha tracejada indicando o valor médio.
+- Exportação de Dados: Na parte inferior, você pode escolher um critério de ordenação (por exemplo, "Temperatura Crescente") e clicar no botão "Gerar CSV". Isso fará com que os dados organizados sejam impressos no seu terminal e um novo arquivo .csv seja salvo automaticamente na mesma pasta do projeto.
 
 
 ## Using the Interface
